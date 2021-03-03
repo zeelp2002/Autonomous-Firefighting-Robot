@@ -7,3 +7,4 @@ __Parts:__ Arduino UNO Board, Ultra-Sonic Sensor,Flame Sensor, Propelling Fan & 
 
 Author: Zeel Patel  
 
+![alt text](https://github.com/zeelp741/Autonomous-Firefighting-Robot/blob/master/Autonomous-Robot.png?raw=true)
